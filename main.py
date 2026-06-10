@@ -168,3 +168,13 @@ with st.expander("📖 그래프 기능 사용법"):
     - `np.sin(x)`는 사인 함수입니다.
     - X축 범위를 직접 설정할 수 있습니다.
     """)
+st.markdown("""
+<style>
+.stApp {
+    background-image: url("https://images.unsplash.com/photo-1462331940025-496dfbfc7564");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+</style>
+""", unsafe_allow_html=True)
